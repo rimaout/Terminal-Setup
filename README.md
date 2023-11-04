@@ -36,6 +36,6 @@ This is my actual terminal setup for kitty on macos
 
 ---
 
-[image](/Media/large.png)
+![image](/Media/large.png)
 
 ---
