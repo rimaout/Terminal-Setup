@@ -3,7 +3,7 @@
 **Terminal Emulator:**
   - [Kitty](https://github.com/kovidgoyal/kitty)
   - Description: cross platform, gpu based terminal emulator 
-  - Config files:
+  - [Config files]()
   - Config file directory path:  ```~/.config/kitty``` (macos)
 
 **Font:**
@@ -13,13 +13,13 @@
 **Promt Customization:**
   - [Starship](https://github.com/starship/starship)
   - Description: customizable prompt for any shell written in rust
-  - Straschip confif file
+  - [Config file]()
   - Config file path:  ```~/.config/starship.toml``` (macos)
 
-**Plugins:**
+### Config
   - **[Neofech](https://github.com/dylanaraps/neofetch):**
     - Description: Command-line system information tool
-    - [Config file]
+    - [Config file]()
     - Config directory filepath: ```~/.config/neofetch (macos)```
     - now to run neofech at the terminal startup (ass "neofech" ad the end of .zshrc) (vim ~/.zshrc)
   
@@ -28,6 +28,4 @@
     - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of .zshrc (on mac if you installed zsh-autosuggestions from homebrew) (vim ~/.zshrc)
 
   - **[eza](https://github.com/eza-community/eza)**
-    - (ls alternative)
-    - eza config file
-    - config file path: 
+    - Descriprion: ls alternative
