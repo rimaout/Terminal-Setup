@@ -20,7 +20,7 @@
 ----
 ### Plugings:
 >  - **[Neofech](https://github.com/dylanaraps/neofetch):**
->   - Description: Command-line system information tool
+>    - Description: Command-line system information tool
 >    - [Config file]()
 >    - Config directory filepath: ```~/.config/neofetch (macos)```
 >    - now to run neofech at the terminal startup (ass "neofech" ad the end of .zshrc) (vim ~/.zshrc)
