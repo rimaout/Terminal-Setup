@@ -1,6 +1,8 @@
 # Terminal-Setup
 This is my actual terminal setup for kitty on macos
 
+![image](/Media/focus.png)
+
 > **Terminal Emulator:** [Kitty](https://github.com/kovidgoyal/kitty)
 >  - Description: cross platform, gpu based terminal emulator 
 >  - [Config files](Config-Files/kitty)
@@ -31,5 +33,9 @@ This is my actual terminal setup for kitty on macos
 >    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form homebrew on macos)
 
 >  - **[eza](https://github.com/eza-community/eza)** an ls alternative
+
+---
+
+[image](/Media/large.png)
 
 ---
