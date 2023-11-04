@@ -13,7 +13,7 @@
 
 >**Promt Customization:** [Starship](https://github.com/starship/starship)
 >  - Description: customizable prompt for any shell written in rust
->  - [Config file](Config-Files/straship.yolm)
+>  - [Config file](Config-Files/starship.toml)
 >  - Config file path:  ```~/.config/starship.toml``` (macos)
 
 
