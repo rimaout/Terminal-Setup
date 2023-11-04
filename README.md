@@ -5,6 +5,7 @@
   - Description: cross platform, gpu based terminal emulator 
   - [Config files]()
   - Config file directory path:  ```~/.config/kitty``` (macos)
+  - Theme: [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
 **Font:**
   - [Cascadia code PL](https://github.com/microsoft/cascadia-code)
