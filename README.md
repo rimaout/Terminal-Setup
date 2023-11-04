@@ -16,7 +16,7 @@
   - [Config file]()
   - Config file path:  ```~/.config/starship.toml``` (macos)
 
-### Config
+### Plugings:
   - **[Neofech](https://github.com/dylanaraps/neofetch):**
     - Description: Command-line system information tool
     - [Config file]()
