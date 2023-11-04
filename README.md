@@ -1,6 +1,6 @@
 # Terminal-Setup
 
-**Terminal Emulator: [Kitty](https://github.com/kovidgoyal/kitty)**
+> **Terminal Emulator: [Kitty](https://github.com/kovidgoyal/kitty)**
   - Description: cross platform, gpu based terminal emulator 
   - [Config files]()
   - Config file directory path:  ```~/.config/kitty``` (macos)
