@@ -2,7 +2,7 @@
 
 > **Terminal Emulator:** [Kitty](https://github.com/kovidgoyal/kitty)
 >  - Description: cross platform, gpu based terminal emulator 
->  - [Config files]()
+>  - [Config files](Config-Files/kitty)
 >  - Config file directory path:  ```~/.config/kitty``` (macos)
 >  - Theme: [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
@@ -13,7 +13,7 @@
 
 >**Promt Customization:** [Starship](https://github.com/starship/starship)
 >  - Description: customizable prompt for any shell written in rust
->  - [Config file]()
+>  - [Config file](Config-Files/straship.yolm)
 >  - Config file path:  ```~/.config/starship.toml``` (macos)
 
 
@@ -21,7 +21,7 @@
 ### Plugings:
 >  - **[Neofech](https://github.com/dylanaraps/neofetch):**
 >    - Description: Command-line system information tool
->    - [Config file]()
+>    - [Config file](Config-Files/neofetch)
 >    - Config directory filepath: ```~/.config/neofetch (macos)```
 >    - now to run neofech at the terminal startup (ass "neofech" ad the end of .zshrc) (vim ~/.zshrc)
 
