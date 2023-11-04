@@ -31,4 +31,4 @@
 >    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of .zshrc (on mac if you installed zsh-autosuggestions from homebrew) (vim ~/.zshrc)
 
 
->  - **[eza](https://github.com/eza-community/eza)** ls alternative
+>  - **[eza](https://github.com/eza-community/eza)** an ls alternative
