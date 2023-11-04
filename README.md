@@ -1,18 +1,15 @@
 # Terminal-Setup
 
-**Terminal Emulator:**
-  - [Kitty](https://github.com/kovidgoyal/kitty)
+**Terminal Emulator: [Kitty](https://github.com/kovidgoyal/kitty)**
   - Description: cross platform, gpu based terminal emulator 
   - [Config files]()
   - Config file directory path:  ```~/.config/kitty``` (macos)
   - Theme: [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
-**Font:**
-  - [Cascadia code PL](https://github.com/microsoft/cascadia-code)
+**Font: [Cascadia code PL](https://github.com/microsoft/cascadia-code)**
   - use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
 
-**Promt Customization:**
-  - [Starship](https://github.com/starship/starship)
+**Promt Customization: [Starship](https://github.com/starship/starship)**
   - Description: customizable prompt for any shell written in rust
   - [Config file]()
   - Config file path:  ```~/.config/starship.toml``` (macos)
