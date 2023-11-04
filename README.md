@@ -1,5 +1,5 @@
 # Terminal-Setup
-This is my terminal setup for kitty on macos
+This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macos
 
 ![image](/Media/focus.png)
 
