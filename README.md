@@ -3,6 +3,8 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 ![image](/Media/focus.png)
 
+## Configuration
+
 > **Terminal Emulator:** [Kitty](https://github.com/kovidgoyal/kitty)
 >  - Description: cross platform, gpu based terminal emulator 
 >  - [Config files](Config-Files/kitty)
