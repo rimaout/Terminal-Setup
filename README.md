@@ -26,7 +26,8 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >  - **[Neofech](https://github.com/dylanaraps/neofetch):**
 >    - Description: Command-line system information tool
 >    - [Config file](Config-Files/neofetch)
->    - Config directory filepath: ```~/.config/neofetch``` (macOS >    - To run neofech at the terminal startup add "neofech" ad the end of ```.zshrc``` 
+>    - Config directory filepath: ```~/.config/neofetch``` (macOS)
+>    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
 
   
 >  - **[zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
