@@ -32,7 +32,7 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
   
 >  - **[zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
 >    - Description: autosuggestions for zsh
->    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form homebrew on macOS)
+>    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form [homebrew](https://github.com/Homebrew/brew) on macOS)
 
 >  - **[eza](https://github.com/eza-community/eza)** an ls alternative
 
