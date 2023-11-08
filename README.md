@@ -1,5 +1,5 @@
 # Terminal-Setup
-This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macos
+This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macOS
 
 ![image](/Media/focus.png)
 
@@ -8,8 +8,8 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 > **Terminal Emulator:** [Kitty](https://github.com/kovidgoyal/kitty)
 >  - Description: cross platform, gpu based terminal emulator 
 >  - [Config files](Config-Files/kitty)
->  - Config file directory path:  ```~/.config/kitty``` (macos)
->  - Theme: [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
+>  - Config file directory path:  ```~/.config/kitty``` (macOS)
+>  - macOS : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
@@ -22,17 +22,16 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >  - Config file path:  ```~/.config/starship.toml``` (macos)
 
 ----
-### Plugings:
+### Plugins:
 >  - **[Neofech](https://github.com/dylanaraps/neofetch):**
 >    - Description: Command-line system information tool
 >    - [Config file](Config-Files/neofetch)
->    - Config directory filepath: ```~/.config/neofetch``` (macos)
->    - To run neofech at the terminal startup add "neofech" ad the end of ```.zshrc``` 
+>    - Config directory filepath: ```~/.config/neofetch``` (macOS >    - To run neofech at the terminal startup add "neofech" ad the end of ```.zshrc``` 
 
   
 >  - **[zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
->    - Descriprion: autosuggestions for zsh
->    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form homebrew on macos)
+>    - Description: autosuggestions for zsh
+>    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form homebrew on macOS)
 
 >  - **[eza](https://github.com/eza-community/eza)** an ls alternative
 
