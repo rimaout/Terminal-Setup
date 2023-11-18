@@ -36,6 +36,8 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 >  - **[eza](https://github.com/eza-community/eza)** an ls alternative
 
+>  - **[bat](https://github.com/sharkdp/bat)** a cat clone with syntax highlighting and Git integration, written in rust
+
 ---
 
 ![image](/Media/large.png)
