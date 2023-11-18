@@ -9,8 +9,12 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >  - Description: cross platform, gpu based terminal emulator 
 >  - [Config files](Config-Files/kitty)
 >  - Config file directory path:  ```~/.config/kitty``` (macOS)
->  - macOS : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
+>  - Theme : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
+> **Shell:** [Nushell](https://github.com/nushell/nushell)
+>  - Description: cross platform, rust written modern shell 
+>  - [Config files]()
+>  - Config file directory path:  ``` ``` (macOS)
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
 >  - use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
