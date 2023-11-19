@@ -37,6 +37,10 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 >  - **[bat](https://github.com/sharkdp/bat)** a cat clone with syntax highlighting and Git integration, written in rust
 
+> - **[Dust](https://github.com/bootandy/dust)**
+
+>  - **[Zellij](https://github.com/zellij-org/zellij)** 
+
 ---
 
 ![image](/Media/large.png)
