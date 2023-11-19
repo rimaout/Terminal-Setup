@@ -39,7 +39,9 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 > - **[Dust](https://github.com/bootandy/dust)**
 
->  - **[Zellij](https://github.com/zellij-org/zellij)** 
+>  - **[Zellij](https://github.com/zellij-org/zellij)**
+>
+>  - **[Gitui](https://github.com/extrawurst/gitui)**
 
 ---
 
