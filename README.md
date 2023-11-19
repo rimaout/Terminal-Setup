@@ -33,12 +33,7 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
 
-  
->  - **[zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
->    - Description: autosuggestions for zsh
->    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form [homebrew](https://github.com/Homebrew/brew) on macOS)
-
->  - **[eza](https://github.com/eza-community/eza)** an ls alternative
+>  - **[eza](https://github.com/eza-community/eza)** an ls alternative written in rust
 
 >  - **[bat](https://github.com/sharkdp/bat)** a cat clone with syntax highlighting and Git integration, written in rust
 
