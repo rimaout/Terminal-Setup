@@ -18,6 +18,8 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
 >  - use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
+>  - on macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew font-caskaydia-cove-nerd-font```
+  
 
 
 >**Promt Customisation:** [Starship](https://github.com/starship/starship)
