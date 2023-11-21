@@ -42,10 +42,10 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 > - **[Dust](https://github.com/bootandy/dust):**
 
 >  - **[Zellij](https://github.com/zellij-org/zellij):**
->
->  - **[Gitui](https://github.com/extrawurst/gitui):** g
+
+>  - **[Gitui](https://github.com/extrawurst/gitui):**
 >    -   Git GUI but right in your terminal, Lazygit alternative written in rust
->    -   Problem that i have encountered and how to fix them: [ssh-key-gitui](/README-Files/ssh_key_gitui.md)
+>    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/ssh_key_gitui_error.md)
 
 ---
 
