@@ -1,7 +1,7 @@
 # Terminal-Setup
 This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macOS
 
-![image](/Media/focus.png)
+![image](/README-Files/focus.png)
 
 ## Configuration
 
@@ -47,6 +47,6 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 ---
 
-![image](/Media/large.png)
+![image](/README-Files/large.png)
 
 ---
