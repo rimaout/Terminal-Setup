@@ -3,7 +3,7 @@
 In my case when I tried to use a ssh key to autenticate my commits, gitui gave me this [error](https://github.com/extrawurst/gitui/issues/495)
 
 **Solution:**
-After you have generate a ssh key (learn how add link)
+After you have generate a ssh key ([learn how](https://codewithsusan.com/notes/ssh-keys-and-github#generate-ssh-key-pair)
 
 You need to run:
 -  ```ssh-add ~/.ssh/name_of_you_ssh_key_file```
