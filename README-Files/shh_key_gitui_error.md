@@ -6,7 +6,7 @@ In my case when I tried to use a ssh key to autenticate my commits, gitui gave m
 After you have generate a ssh key (learn how add link)
 
 You need to run:
-	-  ```ssh-add ~/.ssh/name_of_you_ssh_key_file```
-	- In my case ```ssh-add ~/.ssh/jax_mac_ssh```
+-  ```ssh-add ~/.ssh/name_of_you_ssh_key_file```
+-  - In my case ```ssh-add ~/.ssh/jax_mac_ssh```
 
 
