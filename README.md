@@ -35,15 +35,17 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
 
->  - **[eza](https://github.com/eza-community/eza)** an ls alternative written in rust
+>  - **[eza](https://github.com/eza-community/eza):** an ls alternative written in rust
 
->  - **[bat](https://github.com/sharkdp/bat)** a cat clone with syntax highlighting and Git integration, written in rust
+>  - **[bat](https://github.com/sharkdp/bat):** a cat clone with syntax highlighting and Git integration, written in rust
 
-> - **[Dust](https://github.com/bootandy/dust)**
+> - **[Dust](https://github.com/bootandy/dust):**
 
->  - **[Zellij](https://github.com/zellij-org/zellij)**
+>  - **[Zellij](https://github.com/zellij-org/zellij):**
 >
->  - **[Gitui](https://github.com/extrawurst/gitui)**
+>  - **[Gitui](https://github.com/extrawurst/gitui):** g
+>    -   Git GUI but right in your terminal, Lazygit alternative written in rust
+>    -   Problem that i have encountered and how to fix them: [ssh-key-gitui](/README-Files/ssh_key_gitui.md)
 
 ---
 
