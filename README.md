@@ -29,7 +29,7 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 ----
 ### Plugins:
->  - **[Neofech](https://github.com/dylanaraps/neofetch):**
+> **[Neofech](https://github.com/dylanaraps/neofetch):**
 >    - Description: Command-line system information tool
 >    - [Config file](Config-Files/neofetch)
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
