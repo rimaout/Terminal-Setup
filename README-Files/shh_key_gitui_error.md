@@ -1,4 +1,4 @@
-# How to use gitui with shh key
+# How to use gitui with shh key
 
 In my case when I tried to use a ssh key to autenticate my commits, gitui gave me this [error](https://github.com/extrawurst/gitui/issues/495)
 
