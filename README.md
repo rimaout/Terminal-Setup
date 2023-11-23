@@ -13,10 +13,7 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 > **Primary Shell:** [zsh](h)
 
-> **Secondary Shell:** [Nushell](https://github.com/nushell/nushell)
->  - Description: cross platform, rust written modern shell 
->  - [Config files]()
->  - Config file directory path:  ``` ``` (macOS)
+> **Secondary Shell:** [Nushell](https://github.com/nushell/nushell) and [Fish-shell](https://github.com/fish-shell/fish-shell)
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
 >  - Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
