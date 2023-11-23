@@ -13,7 +13,7 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 > **Primary Shell:** [Fish-shell](https://github.com/fish-shell/fish-shell)
 >  - Description: command line shell for the 90s
->  - [Installation guide](/README-Files/fish_installation_guide.md)
+>  - [Installation guide](/README-Files/fish_mac_installation_guide.md)
 >  - [Config file](Config-Files/fish)
 >  - Config file directory path:  ```~/.config/fish/config.fish``` (macOS)
 
