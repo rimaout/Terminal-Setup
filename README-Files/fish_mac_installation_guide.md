@@ -2,10 +2,15 @@
 ```brew install fish```
 https://fishshell.com
 
-## Fallback
-To fall back to another shell for something, just type ```zsh``` or ```bash```. It will temporarily change the shell until you restart your terminal. You can also type ```fish``` again to go back to fish.
+---
 
-Make fish the default
+## Fallback
+- To fall back to another shell for something, just type ```zsh``` or ```bash```.
+- It will temporarily change the shell until you restart your terminal. You can also type ```fish``` again to go back to fish.
+
+---
+
+## Make fish the default
 1. check the fish path with ```which fish```. In the examples below it was located at: ```/opt/homebrew/bin/fish```
 2. On older Macs these paths might differ.
 3. Add fish to the know shells: ```sudo sh -c 'echo /opt/homebrew/bin/fish >> /etc/shells’```
