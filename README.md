@@ -11,16 +11,14 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >  - Config file directory path:  ```~/.config/kitty``` (macOS)
 >  - Theme : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
-> **Primary Shell:** [zsh](h)
+> **Primary Shell:** [Fish-shell](https://github.com/fish-shell/fish-shell)
 
-> **Secondary Shell:** [Nushell](https://github.com/nushell/nushell) and [Fish-shell](https://github.com/fish-shell/fish-shell)
+> **Secondary Shell:** [Nushell](https://github.com/nushell/nushell)
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
 >  - Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
 >  - On macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew font-caskaydia-cove-nerd-font``` to install the font
   
-
-
 >**Promt Customisation:** [Starship](https://github.com/starship/starship)
 >  - Description: Customisable prompt for any shell written in rust
 >  - [Config file](Config-Files/starship.toml)
@@ -33,10 +31,6 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >    - [Config file](Config-Files/neofetch)
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
-
-> **[Zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
->    - Description: autosuggestions for zsh
->    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form [homebrew](https://github.com/Homebrew/brew) on macOS)
 
 > **[Eza](https://github.com/eza-community/eza):** an ls alternative written in rust
 
