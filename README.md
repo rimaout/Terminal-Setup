@@ -12,6 +12,10 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >  - Theme : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
 > **Primary Shell:** [Fish-shell](https://github.com/fish-shell/fish-shell)
+>  - Description: command line shell for the 90s
+>  - [Config file](Config-Files/fish)
+>  - Config file directory path:  ```~/.config/fish/config.fish``` (macOS)
+
 
 > **Secondary Shell:** [Nushell](https://github.com/nushell/nushell)
 
