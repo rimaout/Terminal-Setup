@@ -45,6 +45,7 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 > **[Dust](https://github.com/bootandy/dust):**
 
 > **[Zellij](https://github.com/zellij-org/zellij):**
+>   - Developer workspace oriented to terminal user, written in rust (similar to terminal multiplexer)
 
 > **[Gitui](https://github.com/extrawurst/gitui):**
 >    -   Git GUI but right in your terminal, Lazygit alternative written in rust
