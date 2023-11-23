@@ -34,19 +34,19 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
 
-> **[zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
+> **[Zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
 >    - Description: autosuggestions for zsh
 >    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form [homebrew](https://github.com/Homebrew/brew) on macOS)
 
-> **[eza](https://github.com/eza-community/eza):** an ls alternative written in rust
+> **[Eza](https://github.com/eza-community/eza):** an ls alternative written in rust
 
-> **[bat](https://github.com/sharkdp/bat):** a cat clone with syntax highlighting and Git integration, written in rust
+> **[Bat](https://github.com/sharkdp/bat):** a cat clone with syntax highlighting and Git integration, written in rust
 
-> **[dust](https://github.com/bootandy/dust):**
+> **[Dust](https://github.com/bootandy/dust):**
 
-> **[zellij](https://github.com/zellij-org/zellij):**
+> **[Zellij](https://github.com/zellij-org/zellij):**
 
-> **[gitui](https://github.com/extrawurst/gitui):**
+> **[Gitui](https://github.com/extrawurst/gitui):**
 >    -   Git GUI but right in your terminal, Lazygit alternative written in rust
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
 
