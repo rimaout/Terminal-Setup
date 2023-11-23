@@ -34,17 +34,19 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
 
-> **[Zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions):**
+> **[zsh autosuggestion](https://github.com/zsh-users/zsh-autosuggestions):**
+>    - Description: autosuggestions for zsh
+>    - add ```source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh``` at the end of ```.zshrc``` (only if you have installed neofetch form [homebrew](https://github.com/Homebrew/brew) on macOS)
 
 > **[eza](https://github.com/eza-community/eza):** an ls alternative written in rust
 
 > **[bat](https://github.com/sharkdp/bat):** a cat clone with syntax highlighting and Git integration, written in rust
 
-> **[Dust](https://github.com/bootandy/dust):**
+> **[dust](https://github.com/bootandy/dust):**
 
-> **[Zellij](https://github.com/zellij-org/zellij):**
+> **[zellij](https://github.com/zellij-org/zellij):**
 
-> **[Gitui](https://github.com/extrawurst/gitui):**
+> **[gitui](https://github.com/extrawurst/gitui):**
 >    -   Git GUI but right in your terminal, Lazygit alternative written in rust
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
 
