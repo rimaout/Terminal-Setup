@@ -11,7 +11,9 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >  - Config file directory path:  ```~/.config/kitty``` (macOS)
 >  - Theme : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
-> **Shell:** [Nushell](https://github.com/nushell/nushell)
+> **Primary Shell:** [zsh](h)
+
+> **Secondary Shell:** [Nushell](https://github.com/nushell/nushell)
 >  - Description: cross platform, rust written modern shell 
 >  - [Config files]()
 >  - Config file directory path:  ``` ``` (macOS)
@@ -34,6 +36,8 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 >    - [Config file](Config-Files/neofetch)
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
+
+> **[Zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions):**
 
 > **[eza](https://github.com/eza-community/eza):** an ls alternative written in rust
 
