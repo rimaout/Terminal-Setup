@@ -6,36 +6,36 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 ## Configuration
 
 > **Terminal Emulator:** [Kitty](https://github.com/kovidgoyal/kitty)
->  - Description: cross platform, gpu based terminal emulator 
->  - [Config files](Config-Files/kitty)
->  - Config file directory path:  ```~/.config/kitty``` (macOS)
->  - Theme : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
+>  -   Description: cross platform, gpu based terminal emulator 
+>  -   [Config files](Config-Files/kitty)
+>  -   Config file directory path:  ```~/.config/kitty``` (macOS)
+>  -   Theme : [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
 > **Primary Shell:** [Fish-shell](https://github.com/fish-shell/fish-shell)
->  - Description: command line shell for the 90s
->  - [Installation guide](/README-Files/fish_mac_installation_guide.md)
->  - [Config file](Config-Files/fish)
->  - Config file directory path:  ```~/.config/fish/config.fish``` (macOS)
+>  -   Description: command line shell for the 90s
+>  -   [Installation guide](/README-Files/fish_mac_installation_guide.md)
+>  -   [Config file](Config-Files/fish)
+>  -   Config file directory path:  ```~/.config/fish/config.fish``` (macOS)
 
 
 > **Secondary Shell:** [Nushell](https://github.com/nushell/nushell)
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
->  - Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
->  - On macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew font-caskaydia-cove-nerd-font``` to install the font
+>  -   Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
+>  -   On macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew font-caskaydia-cove-nerd-font``` to install the font
   
 >**Promt Customisation:** [Starship](https://github.com/starship/starship)
->  - Description: Customisable prompt for any shell written in rust
->  - [Config file](Config-Files/starship.toml)
->  - Config file path:  ```~/.config/starship.toml``` (macos)
+>  -   Description: Customisable prompt for any shell written in rust
+>  -   [Config file](Config-Files/starship.toml)
+>  -   Config file path:  ```~/.config/starship.toml``` (macos)
 
 ----
 ### Plugins:
 > **[Neofech:](https://github.com/dylanaraps/neofetch)**
->    - Description: Command-line system information tool
->    - [Config file](Config-Files/neofetch)
->    - Config directory filepath: ```~/.config/neofetch``` (macOS)
->    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
+>    -   Description: Command-line system information tool
+>    -   [Config file](Config-Files/neofetch)
+>    -   Config directory filepath: ```~/.config/neofetch``` (macOS)
+>    -   To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
 
 > **[Eza:](https://github.com/eza-community/eza)** an ls alternative written in rust
 
@@ -44,15 +44,23 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 > **[Dust:](https://github.com/bootandy/dust)**
 
 > **[Zellij:](https://github.com/zellij-org/zellij)**
->   - Developer workspace oriented to terminal user, written in rust (similar to terminal multiplexer)
->   - [Config file](Config-Files/zellij)
->    - Config directory filepath: ```~/.config/zellij``` (macOS)
+>   -   Developer workspace oriented to terminal user, written in rust (similar to terminal multiplexer)
+>   -   [Config file](Config-Files/zellij)
+>   -   Config directory filepath: ```~/.config/zellij``` (macOS)
+>   -   Theme : [tokyo-night]()
 
 > **[Gitui:](https://github.com/extrawurst/gitui)**
 >    -   Git GUI but right in your terminal, Lazygit alternative written in rust
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
 >    -   [Config file](Config-Files/gitui)
->    - Config directory filepath: ```~/.config/gitui``` (macOS)
+>    -   Config directory filepath: ```~/.config/gitui``` (macOS)
+>    -   Theme : [tokyo-night]()
+
+> **[Helix:]([https://github.com/extrawurst/gitui](https://github.com/helix-editor/helix))**
+>    -   Simple and beginner friendly, Neovim inspired editor, written in Rust.
+>    -   [Config file](Config-Files/helix)
+>    -   Config directory filepath: ```~/.config/helix``` (macOS)
+>    -   Theme : [tokyo-night]()
 
 ---
 
