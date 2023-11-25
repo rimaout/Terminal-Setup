@@ -1,5 +1,5 @@
 # Terminal-Setup
-This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macOS
+This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) themed terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macOS
 
 ![image](/README-Files/focus.png)
 
@@ -31,24 +31,28 @@ This is my terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** o
 
 ----
 ### Plugins:
-> **[Neofech](https://github.com/dylanaraps/neofetch):**
+> **[Neofech:](https://github.com/dylanaraps/neofetch)**
 >    - Description: Command-line system information tool
 >    - [Config file](Config-Files/neofetch)
 >    - Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    - To run neofech at the terminal startup add ```neofech``` ad the end of ```.zshrc``` 
 
-> **[Eza](https://github.com/eza-community/eza):** an ls alternative written in rust
+> **[Eza:](https://github.com/eza-community/eza)** an ls alternative written in rust
 
-> **[Bat](https://github.com/sharkdp/bat):** a cat clone with syntax highlighting and Git integration, written in rust
+> **[Bat:](https://github.com/sharkdp/bat)** a cat clone with syntax highlighting and Git integration, written in rust
 
-> **[Dust](https://github.com/bootandy/dust):**
+> **[Dust:](https://github.com/bootandy/dust)**
 
-> **[Zellij](https://github.com/zellij-org/zellij):**
+> **[Zellij:](https://github.com/zellij-org/zellij)**
 >   - Developer workspace oriented to terminal user, written in rust (similar to terminal multiplexer)
+>   - [Config file](Config-Files/zellij)
+>    - Config directory filepath: ```~/.config/zellij``` (macOS)
 
-> **[Gitui](https://github.com/extrawurst/gitui):**
+> **[Gitui:](https://github.com/extrawurst/gitui)**
 >    -   Git GUI but right in your terminal, Lazygit alternative written in rust
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
+>    -   [Config file](Config-Files/gitui)
+>    - Config directory filepath: ```~/.config/gitui``` (macOS)
 
 ---
 
