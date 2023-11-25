@@ -19,6 +19,7 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 
 
 > **Secondary Shell:** [Nushell](https://github.com/nushell/nushell)
+>   -   Description: modern command line shell written in rust
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
 >  -   Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
@@ -37,27 +38,29 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 >    -   Config directory filepath: ```~/.config/neofetch``` (macOS)
 >    -   To run neofech at the terminal startup add ```neofech``` ad the end of you shell config file (in my case ```~/.config/fish/config.fish```)
 
-> **[Eza:](https://github.com/eza-community/eza)** an ls alternative written in rust
+> **[Eza:](https://github.com/eza-community/eza)**
+>   -   Description: ls alternative with syntax highlighting and other powerful tools, written in rust
 
-> **[Bat:](https://github.com/sharkdp/bat)** a cat clone with syntax highlighting and Git integration, written in rust
+> **[Bat:](https://github.com/sharkdp/bat)**
+>    -   Description: cat clone with syntax highlighting and Git integration, written in rust
 
 > **[Dust:](https://github.com/bootandy/dust)**
 
 > **[Zellij:](https://github.com/zellij-org/zellij)**
->   -   Developer workspace oriented to terminal user, written in rust (similar to terminal multiplexer)
+>   -   Description: Developer workspace oriented to terminal user (similar to terminal multiplexer), written in rust 
 >   -   [My config file](Config-Files/zellij)
 >   -   Config directory filepath: ```~/.config/zellij``` (macOS)
 >   -   Theme : [tokyo-night](https://github.com/zellij-org/zellij/tree/main/zellij-utils/assets/themes)
 
 > **[Gitui:](https://github.com/extrawurst/gitui)**
->    -   Git GUI but right in your terminal, Lazygit alternative written in rust
+>    -   Description: Git GUI but right in your terminal, Lazygit alternative written in rust
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
 >    -   [My config file](Config-Files/gitui)
 >    -   Config directory filepath: ```~/.config/gitui``` (macOS)
 >    -   Theme : [tokyo-night](https://github.com/folke/tokyonight.nvim)
 
 > **[Helix:](https://github.com/helix-editor/helix)**
->    -   Simple and beginner friendly, Neovim inspired editor, written in Rust.
+>    -   Description: Simple and beginner friendly, Neovim inspired editor, written in Rust.
 >    -   [My config file](Config-Files/helix)
 >    -   Config directory filepath: ```~/.config/helix``` (macOS)
 >    -   Theme : [tokyo-night](https://github.com/folke/tokyonight.nvim)
