@@ -56,7 +56,7 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 >    -   Config directory filepath: ```~/.config/gitui``` (macOS)
 >    -   Theme : [tokyo-night](https://github.com/folke/tokyonight.nvim)
 
-> **[Helix:](https://github.com/extrawurst/gitui](https://github.com/helix-editor/helix))**
+> **[Helix:](https://github.com/helix-editor/helix)**
 >    -   Simple and beginner friendly, Neovim inspired editor, written in Rust.
 >    -   [Config file](Config-Files/helix)
 >    -   Config directory filepath: ```~/.config/helix``` (macOS)
