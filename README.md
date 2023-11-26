@@ -1,6 +1,7 @@
 # Terminal-Setup
 This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) themed terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macOS
 
+
 ![image](/README-Files/focus.png)
 
 ## Configuration
