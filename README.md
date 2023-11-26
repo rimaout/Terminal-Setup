@@ -46,7 +46,7 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 >    -   Description: cat clone with syntax highlighting and Git integration, written in rust
 >    -   [My config files](Config-Files/bat)
 >    -   Config file directory path:  ```~/.config/bat``` (macOS)
->    -   Theme: [read](/README-Files/bat_theme_setup.md)
+>    -   Theme: [read](/README-Files/bat_setup.md)
 
 > **[Dust:](https://github.com/bootandy/dust)**
 
