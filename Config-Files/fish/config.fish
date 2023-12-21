@@ -11,6 +11,7 @@ starship init fish | source
 neofetch 
 
 ## Aliases
+alias c="clear"
 alias nv="nvim"
 alias ..="cd .."
 alias cp="cp -i" # interactive mode
@@ -25,3 +26,17 @@ alias ll="eza --long --git --icons --header"
 alias lla="eza --long --git --icons --header --all"
 
 end
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+if test -f /Users/mr/miniconda3/bin/conda
+    eval /Users/mr/miniconda3/bin/conda "shell.fish" "hook" $argv | source
+else
+    if test -f "/Users/mr/miniconda3/etc/fish/conf.d/conda.fish"
+        . "/Users/mr/miniconda3/etc/fish/conf.d/conda.fish"
+    else
+        set -x PATH "/Users/mr/miniconda3/bin" $PATH
+    end
+end
+# <<< conda initialize <<<
+
