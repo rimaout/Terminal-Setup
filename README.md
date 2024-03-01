@@ -28,6 +28,8 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 
 ----
 ### Plugins:
+>**[Chezmoi:](https://github.com/twpayne/chezmoi)**
+>    -   Description: Manage your dotfiles across multiple machines
 
 >**[Atuin:](https://github.com/atuinsh/atuin)**
 >    -   Description: Magical shell history
