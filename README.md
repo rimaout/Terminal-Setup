@@ -1,7 +1,6 @@
 # Terminal-Setup
 This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) themed terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macOS
 
-
 ![image](/README-Files/focus.png)
 
 ## Configuration
@@ -18,10 +17,6 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 >  -   [My config file](Config-Files/fish)
 >  -   Config file directory path:  ```~/.config/fish/config.fish``` (macOS)
 
-
-> **Secondary Shell:** [Nushell](https://github.com/nushell/nushell)
->   -   Description: modern command line shell written in rust
-
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
 >  -   Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
 >  -   On macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew font-caskaydia-cove-nerd-font``` to install the font
@@ -33,6 +28,13 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 
 ----
 ### Plugins:
+
+>**[Atuin:](https://github.com/atuinsh/atuin)**
+>    -   Description: Magical shell history
+
+>**[Tldr:](https://github.com/tldr-pages/tldr)**
+>    -   Description: Cheatsheets for console commands 
+
 > **[Neofech:](https://github.com/dylanaraps/neofetch)**
 >    -   Description: Command-line system information tool
 >    -   [My config file](Config-Files/neofetch)
