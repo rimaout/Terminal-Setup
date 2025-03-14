@@ -28,8 +28,6 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 
 ----
 ### Plugins:
->**[Chezmoi:](https://github.com/twpayne/chezmoi)**
->    -   Description: Manage your dotfiles across multiple machines
 
 >**[Atuin:](https://github.com/atuinsh/atuin)**
 >    -   Description: Magical shell history
@@ -52,25 +50,11 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 >    -   Config file directory path:  ```~/.config/bat``` (macOS)
 >    -   Theme: [read](/README-Files/bat_setup.md)
 
-> **[Dust:](https://github.com/bootandy/dust)**
-
-> **[Zellij:](https://github.com/zellij-org/zellij)**
->   -   Description: Developer workspace oriented to terminal user (similar to terminal multiplexer), written in rust 
->   -   [My config file](Config-Files/zellij)
->   -   Config directory filepath: ```~/.config/zellij``` (macOS)
->   -   Theme: [tokyo-night](https://github.com/zellij-org/zellij/tree/main/zellij-utils/assets/themes)
-
 > **[Gitui:](https://github.com/extrawurst/gitui)**
 >    -   Description: Git GUI but right in your terminal, Lazygit alternative written in rust
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
 >    -   [My config file](Config-Files/gitui)
 >    -   Config directory filepath: ```~/.config/gitui``` (macOS)
->    -   Theme: [tokyo-night](https://github.com/folke/tokyonight.nvim)
-
-> **[Helix:](https://github.com/helix-editor/helix)**
->    -   Description: Simple and beginner friendly, Neovim inspired editor, written in Rust.
->    -   [My config file](Config-Files/helix)
->    -   Config directory filepath: ```~/.config/helix``` (macOS)
 >    -   Theme: [tokyo-night](https://github.com/folke/tokyonight.nvim)
 
 ---
