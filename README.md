@@ -1,61 +1,41 @@
 # Terminal-Setup
-This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) themed terminal setup for **[Kitty](https://github.com/kovidgoyal/kitty)** on macOS
+This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) themed terminal setup for macOS
 
 ![image](/README-Files/focus.png)
 
 ## Configuration
 
-> **Terminal Emulator:** [Kitty](https://github.com/kovidgoyal/kitty)
->  -   Description: cross platform, gpu based terminal emulator 
->  -   [My config files](Config-Files/kitty)
->  -   Config file directory path:  ```~/.config/kitty``` (macOS)
->  -   Theme: [tokyo-night](https://github.com/davidmathers/tokyo-night-kitty-theme)
+> **Terminal Emulator:** [Ghostty](https://ghostty.org/docs)
+>  -   [My config files](https://github.com/rimaout/.dotfiles/tree/main/ghostty/.config/ghostty)
 
 > **Primary Shell:** [Fish-shell](https://github.com/fish-shell/fish-shell)
->  -   Description: command line shell for the 90s
 >  -   [Installation guide](/README-Files/fish_mac_installation_guide.md)
->  -   [My config file](Config-Files/fish)
->  -   Config file directory path:  ```~/.config/fish/config.fish``` (macOS)
+>  -   [My config file](https://github.com/rimaout/.dotfiles/tree/main/fish/.config/fish)
 
 >**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
 >  -   Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
 >  -   On macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew font-caskaydia-cove-nerd-font``` to install the font
   
 >**Promt Customisation:** [Starship](https://github.com/starship/starship)
->  -   Description: Customisable prompt for any shell written in rust
->  -   [My config file](Config-Files/starship.toml)
->  -   Config file path:  ```~/.config/starship.toml``` (macos)
+>  -   My config file: none, I use the default configuration
 
 ----
 ### Plugins:
 
->**[Atuin:](https://github.com/atuinsh/atuin)**
->    -   Description: Magical shell history
+>**[Atuin:](https://github.com/atuinsh/atuin)** Magical shell history
 
->**[Tldr:](https://github.com/tldr-pages/tldr)**
->    -   Description: Cheatsheets for console commands 
+>**[Zoxide:](https://github.com/ajeetdsouza/zoxide)** Smarter `cd` command
 
-> **[Neofech:](https://github.com/dylanaraps/neofetch)**
->    -   Description: Command-line system information tool
->    -   [My config file](Config-Files/neofetch)
->    -   Config directory filepath: ```~/.config/neofetch``` (macOS)
->    -   To run neofech at the terminal startup add ```neofech``` ad the end of you shell config file (in my case ```~/.config/fish/config.fish```)
+>**[Eza:](https://github.com/eza-community/eza)** `ls` alternative with syntax highlighting
 
-> **[Eza:](https://github.com/eza-community/eza)**
->    -   Description: ls alternative with syntax highlighting and other powerful tools, written in rust
+>**[Bat:](https://github.com/sharkdp/bat)** `cat` clone with syntax highlighting and Git integration
+>    -   [My config files](https://github.com/rimaout/.dotfiles/tree/main/bat/.config/bat)
 
-> **[Bat:](https://github.com/sharkdp/bat)**
->    -   Description: cat clone with syntax highlighting and Git integration, written in rust
->    -   [My config files](Config-Files/bat)
->    -   Config file directory path:  ```~/.config/bat``` (macOS)
->    -   Theme: [read](/README-Files/bat_setup.md)
+>**[Bob:](https://github.com/MordechaiHadad/bob)** Neovim version manager
 
-> **[Gitui:](https://github.com/extrawurst/gitui)**
->    -   Description: Git GUI but right in your terminal, Lazygit alternative written in rust
+>**[Gitui:](https://github.com/extrawurst/gitui)** Git GUI but in your terminal
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
->    -   [My config file](Config-Files/gitui)
->    -   Config directory filepath: ```~/.config/gitui``` (macOS)
->    -   Theme: [tokyo-night](https://github.com/folke/tokyonight.nvim)
+>    -   [My config file](https://github.com/rimaout/.dotfiles/tree/main/gitui/.config/gitui) (it's just the theme)
 
 ---
 
