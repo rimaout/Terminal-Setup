@@ -1,6 +1,8 @@
 # Terminal-Setup
 This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) themed terminal setup for macOS
 
+<img width="2071" height="1365" alt="image" src="https://github.com/user-attachments/assets/c1a5edd4-f584-49fb-814b-52b3c3396012" />:
+
 ## Configuration
 
 > **Terminal Emulator:** [Ghostty](https://ghostty.org/docs)
@@ -33,9 +35,3 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 >**[Gitui:](https://github.com/extrawurst/gitui)** Git GUI but in your terminal
 >    -   Problem that i have encountered and how to fix them: [ssh-key-gitui-error](/README-Files/shh_key_gitui_error.md)
 >    -   [My config file](https://github.com/rimaout/.dotfiles/tree/main/gitui/.config/gitui) (it's just the theme)
-
----
-
-<img width="2071" height="1365" alt="image" src="https://github.com/user-attachments/assets/c1a5edd4-f584-49fb-814b-52b3c3396012" />
-
----
