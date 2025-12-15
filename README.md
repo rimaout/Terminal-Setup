@@ -1,8 +1,6 @@
 # Terminal-Setup
 This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) themed terminal setup for macOS
 
-![image](/README-Files/focus.png)
-
 ## Configuration
 
 > **Terminal Emulator:** [Ghostty](https://ghostty.org/docs)
@@ -12,9 +10,8 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 >  -   [Installation guide](/README-Files/fish_mac_installation_guide.md)
 >  -   [My config file](https://github.com/rimaout/.dotfiles/tree/main/fish/.config/fish)
 
->**Font:** [Cascadia code PL](https://github.com/microsoft/cascadia-code)
->  -   Use the [nerd fonts](https://github.com/ryanoasis/nerd-fonts) version to have special characters
->  -   On macos use these commads ```brew tap homebrew/cask-fonts``` and ```brew font-caskaydia-cove-nerd-font``` to install the font
+>**Font:** [Cascadia Code](https://github.com/eliheuer/caskaydia-cove)
+>  -   On macos use `brew install --cask font-caskaydia-cove-nerd-font` to install the font
   
 >**Promt Customisation:** [Starship](https://github.com/starship/starship)
 >  -   My config file: none, I use the default configuration
@@ -39,6 +36,6 @@ This is my [tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) theme
 
 ---
 
-![image](/README-Files/large.png)
+<img width="2071" height="1365" alt="image" src="https://github.com/user-attachments/assets/c1a5edd4-f584-49fb-814b-52b3c3396012" />
 
 ---
